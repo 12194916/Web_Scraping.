@@ -1,4 +1,6 @@
 
+1.For Required Lists data, put different keywords and try. 
+
 
 2.# Tahrirchi_Test_Task
 I have done all the steps. About collecting more data like this, we should put as many links as possible into the txt file and send it to the code. So it returns the csv dataset. It is easy if the code is deployed as a telegram bot. But it would be better to write this code with NLTK libary. That is the best for preprocesing the text data. We may use bag of words, tf-dtf or word2text to convert text to numbers. 
